@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Vincent Lambert
+N;CHARSET=UTF-8:Lambert;Vincent;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:v.lambert@eurelis.com
+ROLE;CHARSET=UTF-8:CEO and Founder
+ORG;CHARSET=UTF-8:Eurelis
+URL;type=WORK;CHARSET=UTF-8:https://www.eurelis.com
+X-SOCIALPROFILE;TYPE=twitter:https://x.com/vincentlambert
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/vincentlambert/
+X-SOCIALPROFILE;TYPE=Medium:https://medium.com/@vincentlambert0
+REV:2024-10-12T11:25:06.172Z
+END:VCARD
